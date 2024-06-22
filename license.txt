@@ -1,0 +1,11 @@
+Model Information:
+* title:	1
+* source:	https://sketchfab.com/3d-models/1-bdcc4e8d0e3d4d55b4fca313c73e014e
+* author:	razumovaleksej486 (https://sketchfab.com/razumovaleksej486)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1" (https://sketchfab.com/3d-models/1-bdcc4e8d0e3d4d55b4fca313c73e014e) by razumovaleksej486 (https://sketchfab.com/razumovaleksej486) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
